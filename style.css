@@ -1,0 +1,71 @@
+body{
+    top: 0%;
+    left: 0%;
+}
+.topo{
+    padding-top: 150px;
+    height: 600px;
+    background-image: url(img/capa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+h1{ 
+    padding-top: 1px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(151, 0, 0);
+    width: 170px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 8px;
+}
+h2{
+    margin: 0 auto;
+    background-color: rgb(209, 161, 3);
+    text-align: center;
+    width: 170px;
+    font-size: 20px;
+    padding: 8px;
+}
+.tudo01{
+    margin: 0 26%;
+    padding-top: 240px;
+    text-align: justify;
+    padding-bottom: 40px;    
+}
+.titulo01{
+    font-weight: bold;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+.imagens{
+    display: flex;
+    width: 200px;
+    gap: 5px;
+}
+.paralax01{
+    padding-bottom: 30px;
+    background-image: url(img/img1.jpg);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+.final{
+    margin: 0 26%;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.link01{
+    height: 20px;
+    font-size: 17px;
+    text-align: center;
+    padding: 8px;
+    width: 200px;
+    background-color: red;
+    a{
+        text-decoration: none;
+        color: #fff;
+    }
+}
